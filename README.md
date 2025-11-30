@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Inlayo/Inlayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Inlayo
 
-Here are some ideas to get you started:
+Web developer who loves building front-end projects and experimenting with ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mainly working with **HTML / CSS / JS / TS**, also use **Python** and **C#** when needed
+
+## what I Do
+- Build fun web projects
+- Experiment with UI/UX
+- Improve and rewrite my own code
+- Try new tech 😎
+
+**Frontend:** HTML • CSS • JS • TS
+
+**Others:** Python • C#
+(Continuously learning related frameworks and tools!)
+
+## links
+- [Inlayo.com/osu](https://Inlayo.com/osu)
+- [Inlayo.com/skins](https://Inlayo.com/skins)
+- [Inlayo.com/github](https://Inlayo.com/github)
+- [Inlayo.com/twitch](https://Inlayo.com/twitch)
+- [Inlayo.com/twitter](https://Inlayo.com/twitter)
+- [Inlayo.com/youtube](https://Inlayo.com/youtube)
