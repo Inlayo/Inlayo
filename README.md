@@ -2,12 +2,6 @@
 
 # Hey, I'm Inlayo 🫡
 
-I'm a web developer who enjoys building front-end projects and experimenting with new ideas.
-
-I mainly work with HTML, CSS, JS, and TS, but I also use Python and C# when needed.
-
-## Tech Stack
-
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" height="40" /></a>
@@ -17,15 +11,19 @@ I mainly work with HTML, CSS, JS, and TS, but I also use Python and C# when need
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="40" /></a>
 </p>
 
+I'm a web developer who enjoys building front-end projects and experimenting with new ideas.
+
+I mainly work with HTML, CSS, JS, and TS, but I also use Python and C# when needed.
+
 ## Featured Projects
 
 **[Inlayo-skins](https://github.com/Inlayo/Inlayo-skins)** — Inlayo's osu! skin collection
 
 **[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch alert bot
 
-**[bancho.py-old](https://github.com/Inlayo/bancho.py-old)** — Open source osu! private servers
+**[bancho.py](https://github.com/Inlayo/bancho.py-old)** — Open source osu! private servers
 
-**[guweb-old](https://github.com/Inlayo/guweb-old)** — Frontend for osu! private servers
+**[guweb](https://github.com/Inlayo/guweb-old)** — Frontend for osu! private servers
 
 </div>
 
