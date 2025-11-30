@@ -5,7 +5,7 @@ Web developer who loves building front-end projects and experimenting with ideas
 
 Mainly working with **HTML / CSS / JS / TS**, also use **Python** and **C#** when needed
 
-## what I Do
+## what i do
 - Build fun web projects
 - Experiment with UI/UX
 - Improve and rewrite my own code
