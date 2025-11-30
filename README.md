@@ -17,9 +17,19 @@ I mainly work with HTML, CSS, JS, and TS, but I also use Python and C# when need
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="40" /></a>
 </p>
 
+## Featured Projects
+
+**[Inlayo-skins](https://github.com/Inlayo/Inlayo-skins)** — Custom osu! skin collection
+
+**[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch chat bot
+
+**[bancho.py-old](https://github.com/Inlayo/bancho.py-old)** — Open-source osu! server
+
+**[guweb-old](https://github.com/Inlayo/guweb-old)** — Frontend for gulag osu! server protocol
+
 </div>
 
-### thanks for [violense](https://github.com/violense)
+thanks for [violense](https://github.com/violense)
 
 ## links
 
