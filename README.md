@@ -19,13 +19,13 @@ I mainly work with HTML, CSS, JS, and TS, but I also use Python and C# when need
 
 ## Featured Projects
 
-**[Inlayo-skins](https://github.com/Inlayo/Inlayo-skins)** — Custom osu! skin collection
+**[Inlayo-skins](https://github.com/Inlayo/Inlayo-skins)** — Inlayo's osu! skin collection
 
-**[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch chat bot
+**[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch alert bot
 
-**[bancho.py-old](https://github.com/Inlayo/bancho.py-old)** — Open-source osu! server
+**[bancho.py-old](https://github.com/Inlayo/bancho.py-old)** — Open source osu! private servers
 
-**[guweb-old](https://github.com/Inlayo/guweb-old)** — Frontend for gulag osu! server protocol
+**[guweb-old](https://github.com/Inlayo/guweb-old)** — Frontend for osu! private servers
 
 </div>
 
