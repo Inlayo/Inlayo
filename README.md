@@ -41,4 +41,4 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 <a href="https://inlayo.com/youtube">YouTube</a>
 </p>
 
-### thanks for @violense
+### thanks for [violense](https://github.com/violense)
