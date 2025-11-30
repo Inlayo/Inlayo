@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Inlayo
+# Hey, I'm Inlayo 🫡
 
 I'm a web developer who enjoys building front-end projects and experimenting with new ideas.
 
