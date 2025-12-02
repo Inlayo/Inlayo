@@ -21,9 +21,9 @@ I mainly work with HTML, CSS, JS, and TS, but I also use Python and C# when need
 
 **[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch alert bot
 
-**[bancho.py](https://github.com/Inlayo/bancho.py-old)** — Open source osu! private servers
+**[bancho.py](https://github.com/Inlayo-osu/bancho.py)** — Open source osu! private servers
 
-**[guweb](https://github.com/Inlayo/guweb-old)** — Frontend for osu! private servers
+**[guweb](https://github.com/Inlayo-osu/guweb)** — Frontend for osu! private servers
 
 </div>
 
