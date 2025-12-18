@@ -13,7 +13,7 @@
 
 I'm a web developer who enjoys building front-end projects and experimenting with new ideas.
 
-I mainly work with HTML, CSS, JS, and TS, but I also use Python and C# when needed.
+I mainly work with HTML, CSS, JS, and TS, but I also use Python and C++ when needed.
 
 ## Featured Projects
 
