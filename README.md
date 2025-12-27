@@ -21,8 +21,6 @@ I mainly work with HTML, CSS, JS, and TS, but I also use Python and C++ when nee
 
 **[bancho.py](https://github.com/Inlayo-osu/bancho.py)** — Open source Inlayo osu! private servers
 
-**[guweb](https://github.com/Inlayo-osu/guweb)** — Frontend for Inlayo osu! private servers
-
 **[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch alert bot
 
 **[Inlayo-bot](https://github.com/Inlayo-osu/Inlayo-bot)** — Lightweight discord bot for osu!
