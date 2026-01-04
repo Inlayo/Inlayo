@@ -32,7 +32,7 @@ I mainly work with HTML, CSS, JS, and TS, but I also use Python and C++ when nee
 ## links
 
 <a href="https://inlayo.com">website</a> • 
-<a href="https://inlayo.com/osu">osu!</a> • 
+<a href="https://osu.ppy.sh/u/Inlayo">osu!</a> • 
 <a href="https://inlayo.com/twitch">twitch</a> • 
 <a href="https://inlayo.com/twitter">twitter</a> • 
 <a href="https://inlayo.com/youtube">youtube</a>
